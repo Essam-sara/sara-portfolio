@@ -20,8 +20,6 @@ I actively contribute to open source projects. Here are a few of my contribution
 - [Project 1](Link_to_contribution)
 - [Project 2](Link_to_contribution)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraessam&show_icons=true&hide_title=true)
 
 ## Projects
 ### [Project 1](Link_to_project_1) ![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
