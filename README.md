@@ -20,8 +20,6 @@ I actively contribute to open source projects. Here are a few of my contribution
 - [Project 1](Link_to_contribution)
 - [Project 2](Link_to_contribution)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraessam&show_icons=true&hide_title=true)
 
 ## Projects
 ### [Project 1](Link_to_project_1)
@@ -42,7 +40,7 @@ I’m currently diving deeper into:
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/saraessam)
-- [Twitter](https://twitter.com/saraessam)
+
 - [Portfolio](https://www.saraessamportfolio.com)
 
 ## Let's Collaborate!
