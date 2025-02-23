@@ -4,6 +4,7 @@ Hi there! I'm Sara Essam, a passionate Full Stack PHP Developer with a degree in
 I am always learning and experimenting with new technologies, and I love collaborating with others on exciting projects.
 
 ## Skills
+## Skills
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -14,6 +15,11 @@ I am always learning and experimenting with new technologies, and I love collabo
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/Adobe_XD-FF26BE?style=flat&logo=adobe-xd&logoColor=white)
 
 ## Open Source Contributions
 I actively contribute to open source projects. Here are a few of my contributions:
